@@ -3,7 +3,7 @@
 
 A Java console application that helps users manage their daily habits effectively.
 The application supports CRUD operations (Create, Read, Update, Delete) and stores all data in a MySQL database via JDBC.
-
+ 
 DailyHabitTracker/
 │
 ├── lib/
