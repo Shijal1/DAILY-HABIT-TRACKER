@@ -1,0 +1,8 @@
+com\habittracker\views\SuggestionsView.class
+com\habittracker\models\Habit.class
+com\habittracker\views\HomeView.class
+com\habittracker\App.class
+com\habittracker\views\AddHabitView.class
+com\habittracker\utils\HabitManager.class
+com\habittracker\views\ViewHabitsView.class
+com\habittracker\views\RemindersView.class
